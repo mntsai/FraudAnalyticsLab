@@ -6,7 +6,7 @@ Feel free to explore, contribute, and share your thoughts—collaboration is alw
 
 ---
 
-## I. 🔍 Card Transaction Fraud Detection
+## 🔍 Card Transaction Fraud Detection
 
 ### 1. Consecutive Transaction Distance Analysis
 
